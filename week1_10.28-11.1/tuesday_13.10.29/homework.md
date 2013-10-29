@@ -1,17 +1,10 @@
 !SLIDE text-size-70 title-and-content transition=fade
 Homework
 ========
-+ Read and work through:
-  + http://mac.tutsplus.com/tutorials/terminal/navigating-the-terminal-a-gentle-introduction/
-  + http://mac.tutsplus.com/tutorials/terminal/speed-up-your-terminal-workflow-with-command-aliases-and-profile/
-+ Introduction and Chap 1 - Learn To Program
-+ Introduction and Chap 2 through "Turning ideas into Ruby code" - Beginning Ruby
-+ Setup an account on Twitter, Github, and Gravatar (with same email addy)
-+ Write down your answers to the 3 Questions
 
-
-**Feeling adventurous?**
-
-+ install oh-my-zsh
-  + http://www.maclife.com/article/columns/terminal_101_better_shell_zsh
-  + https://github.com/robbyrussell/oh-my-zsh/
+- Read chapters 2-5 of Learn to Program.
+- Complete the two exercises in section 5.6. (saving the files into a dir called `ltp_5_6`).
+- Create a `ltp_5_6` repo on Github.com.
+- init the `ltp_5_6` dir into a git repo.
+- Push your assigments to Github!
+- Watch Git for ages 4 and up [http://2010.osdc.com.au/proposal/196/git-ages-4-and](http://2010.osdc.com.au/proposal/196/git-ages-4-and)
