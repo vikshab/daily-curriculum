@@ -42,8 +42,9 @@ to it. If you have not yet installed bower, follow these steps to install it.
 
 6) Add the following to your `bower.json` file:
 
-  ```{
+  ```
 
+  {
     "name": "Blahg",  
     "version": "0.0.0", 
     "authors": [  
@@ -53,7 +54,9 @@ to it. If you have not yet installed bower, follow these steps to install it.
     "main": "layout.html",  
     "dependencies": { 
     } 
-  }```
+  }
+
+  ```
 
 This file frequently contains information about the license, version, github
 repo, main URL, etc. We don't need as much information in our file.
