@@ -22,6 +22,7 @@ Hotkeys
 - `⌘v` - paste last copied content
 - `⌘z` - undo last action (can use multiple times)
 - `⌘⇧z` - redo last undo
+- `⌘ Spacebar` - quick open an application / Spotlight Search
 
 ### Cursor & Selection
 - `⌘a` - select all contents of current window
